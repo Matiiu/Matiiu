@@ -1,7 +1,6 @@
 ## Hello 👋
 
-My name is Mateo Tavera, I'm from Colombia, and I'm a web developer.
-
+My name is Mateo Tavera, I'm from Colombia, and I'm a web developer. 💻
 - Currently working for GPS Chile as a full-stack developer.
 - I create websites as a freelancer.
 
