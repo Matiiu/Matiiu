@@ -10,7 +10,7 @@ My name is Mateo Tavera, I'm from Colombia, and I'm a web developer. 💻
 - Visualization and API consumption of web pages.
 - Create and automate databases using.
 - Create communication between the Front-End and the Back-End.
-- Guarantee the proper functioning of the page, carrying out tests using unit tests.
+- Guarantee the proper functioning of the page by performing unit tests.
 - I have knowledge of languages: HTML, CSS/SASS, JavaScript/TypeScript, Vue, React, and Python.
 
 ## Contact 📞
