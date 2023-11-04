@@ -6,7 +6,8 @@ My name is Mateo Tavera, I'm from Colombia, and I'm a web developer. 💻
 
 ## Skills 🛠️
 
-- Develop the user interface, visualization and API consumption of web pages.
+- Develop the user interface.
+- Visualization and API consumption of web pages.
 - Create and automate databases using.
 - Create communication between the Front-End and the Back-End.
 - Guarantee the proper functioning of the page, carrying out tests using unit tests.
